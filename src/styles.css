@@ -1,0 +1,9 @@
+#home-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
